@@ -1,8 +1,8 @@
 # If you want to mint nft on a different contract:
 
-1. If you want to mint nft on a different contract then go to nft-warranty-back folder and create a new contract by following Readme.md file there.\
-2. Change all the CONTRACT_ADDRESS variable with the new address you've created.\
-3. CONTRACT_ADDRESS is present in the files: CustomerLogin.jsx, SellerLogin.jsx, SellerMain.jsx\
+1. If you want to mint nft on a different contract then go to nft-warranty-back folder and create a new contract by following Readme.md file there.
+2. Change all the CONTRACT_ADDRESS variable with the new address you've created.
+3. CONTRACT_ADDRESS is present in the files: CustomerLogin.jsx, SellerLogin.jsx, SellerMain.jsx
 4. Change the WarrantyCard.json file on src/utils folder to the new WarrantyCard.json file created on nft-warranty-back/artifacts/contracts/WarrantyCard.sol/ folder
 
 # Getting Started with Create React App
